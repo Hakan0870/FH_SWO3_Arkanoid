@@ -28,6 +28,7 @@ void create_menu(int winWidth, int winHeight) {
 
 
 }
+
 void pointer_on(float x, float y) {
   al_init_primitives_addon();
 
